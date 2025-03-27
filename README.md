@@ -10,3 +10,9 @@
 * README : 说明书
 
 请点击 [Daily](Daily.md) 开始 浏览
+
+## 第二阶段学习个人仓库
+
+- rCore Tutorial 实验仓库：https://github.com/LearningOS/2025s-rcore-wmjim
+- 每日学习日志仓库：https://github.com/wmjim/DailySchedule/tree/master
+- rcore-os 博客：https://github.com/wmjim/blog
